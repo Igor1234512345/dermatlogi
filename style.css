@@ -1,0 +1,76 @@
+
+ .button
+ {
+  width: 172px;
+  height: 38px;
+  border: 1px solid #6ab04c;
+  background-color: #177246; 
+  color: white;
+  border-radius: 50px;
+  margin-top: 3%;
+  margin-bottom: 3%;
+
+ }
+ body {
+    background-color: FAF6F7;
+  }
+
+
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    
+    li {
+      list-style: none;
+      display: flex;
+      align-items: center;
+    }
+    
+    li p {
+      margin-left: 10px;
+    }
+    
+    .blok_krasa
+    {
+     
+      opacity: 0.64;  
+
+
+    }
+    .rectangle {
+
+    color:white ;
+    width: 590px;
+    height: 100px;
+    margin-left: 40px;
+    background-color: #491701;    
+    text-indent: -3.5em; 
+    text-align:center; 
+    font-size:350%; 
+
+    }
+     * {
+      margin: 0;
+      padding: 0;
+     }
+     .text
+     {
+      margin-top:5%; 
+      width: 564px;
+      height: 215px;
+      color: #491701;
+      font-family: "Segoe UI";
+      font-size: 14px;
+      font-weight: 300;
+      letter-spacing: 0.7px;
+     } 
+
+ .krasa
+ {
+
+   
+   margin-top: 3.5%;
+ }
